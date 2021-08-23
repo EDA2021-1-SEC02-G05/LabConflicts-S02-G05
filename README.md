@@ -1,3 +1,6 @@
+Estudiante 1: Juliana Delgadillo Cheyne
+Estudiante 2: Maria Alejandra Moreno Bustillo
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
