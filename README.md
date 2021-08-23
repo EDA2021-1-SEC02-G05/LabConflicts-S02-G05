@@ -1,5 +1,10 @@
 Estudiante 1: Juliana Delgadillo Cheyne
+Correo:j.delgadillo@uniandes.edu.co
+Código:202020986
+
 Estudiante 2: Maria Alejandra Moreno Bustillo
+Correo:m.morenob@uniandes.edu.co
+Código:202021603
 
 #ISIS1225 - Estructura de un proyecto
 
